@@ -22,17 +22,20 @@ Write PLA in python, with data set and execution result
 ![image](https://github.com/leodflag/Python_PLA/blob/master/update%20weight.png)
 
 ## 結果
-data1 
+data1   
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data1_result.png)
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data1.png)
-data2
+--------
+data2   
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data2_result.png)
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data2.png)
-data3
+--------
+data3   
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data3_result.png)
 ![image](https://github.com/leodflag/Python_PLA/blob/master/data3.png)
+--------
 
 ## 函式
-import numpy
-dataset = numpy.loadtxt("data3.csv", delimiter=",")
-data = dataset[:]
+    import numpy
+    dataset = numpy.loadtxt("data3.csv", delimiter=",")
+    data = dataset[:]
