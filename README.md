@@ -28,7 +28,7 @@ data1
 --------
 data2   
 ![image](https://github.com/leodflag/Python_PLA/blob/master/img/data2_result.png)
-![image](https://github.com/leodflag/Python_PLA/blob/master/img/vdata2.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data2.png)
 --------
 data3   
 ![image](https://github.com/leodflag/Python_PLA/blob/master/img/data3_result.png)
