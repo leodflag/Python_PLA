@@ -13,26 +13,26 @@ Write PLA in python, with data set and execution result
 [感知機wiki](https://zh.wikipedia.org/wiki/%E6%84%9F%E7%9F%A5%E5%99%A8)
 
 ## 公式
-![image](https://github.com/leodflag/Python_PLA/blob/master/function.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/function.png)
 
 ## 分類公式
-![image](https://github.com/leodflag/Python_PLA/blob/master/classification%20function.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/classification%20function.png)
 
 ## 權重更新
-![image](https://github.com/leodflag/Python_PLA/blob/master/update%20weight.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/update%20weight.png)
 
 ## 結果
 data1   
-![image](https://github.com/leodflag/Python_PLA/blob/master/data1_result.png)
-![image](https://github.com/leodflag/Python_PLA/blob/master/data1.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data1_result.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data1.png)
 --------
 data2   
-![image](https://github.com/leodflag/Python_PLA/blob/master/data2_result.png)
-![image](https://github.com/leodflag/Python_PLA/blob/master/data2.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data2_result.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/vdata2.png)
 --------
 data3   
-![image](https://github.com/leodflag/Python_PLA/blob/master/data3_result.png)
-![image](https://github.com/leodflag/Python_PLA/blob/master/data3.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data3_result.png)
+![image](https://github.com/leodflag/Python_PLA/blob/master/img/data3.png)
 --------
 
 ## 函式
